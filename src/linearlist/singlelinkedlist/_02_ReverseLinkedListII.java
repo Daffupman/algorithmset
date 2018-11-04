@@ -4,7 +4,7 @@ package linearlist.singlelinkedlist;
  * @author Daffupman
  * @date 2018/11/4 19:20
  */
-public class ReverseLinkedListII {
+public class _02_ReverseLinkedListII {
 
     /*
      * 思路整理：
