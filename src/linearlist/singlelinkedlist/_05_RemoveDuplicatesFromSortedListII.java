@@ -4,7 +4,7 @@ package linearlist.singlelinkedlist;
  * @author Daffupman
  * @date 2018/11/6 18:19
  */
-public class _05_RemoveDuplicatesfromSortedListII {
+public class _05_RemoveDuplicatesFromSortedListII {
 
     public static void main(String[] args){
         ListNode head = ListNode.load(new int[]{3,2,1,1});

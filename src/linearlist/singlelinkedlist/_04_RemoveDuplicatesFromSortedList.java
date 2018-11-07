@@ -4,7 +4,7 @@ package linearlist.singlelinkedlist;
  * @author Daffupman
  * @date 2018/11/6 17:56
  */
-public class _04_RemoveDuplicatesfromSortedList {
+public class _04_RemoveDuplicatesFromSortedList {
 
     /**
      * Given a sorted linked list,
