@@ -1,4 +1,4 @@
-package tree._01_binarytreeconstruct;
+package tree._04_binarytreetraversal;
 
 import tree.BinarySearchTree;
 import tree.TreeNode;

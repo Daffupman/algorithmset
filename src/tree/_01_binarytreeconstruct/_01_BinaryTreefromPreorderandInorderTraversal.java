@@ -1,4 +1,4 @@
-package tree._02_binarytreerecursion;
+package tree._01_binarytreeconstruct;
 
 import tree.TreeNode;
 
@@ -6,7 +6,7 @@ import tree.TreeNode;
  * @author Daffupman
  * @date 2018/11/19 19:31
  */
-public class _01_Construct_01_BinaryTreefromPreorderandInorderTraversal {
+public class _01_BinaryTreefromPreorderandInorderTraversal {
 
     /**
      * 思路：通过先序和中序推算出树的结构
